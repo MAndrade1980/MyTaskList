@@ -1,0 +1,40 @@
+﻿
+.GridButton {
+    width:20px;
+}
+
+.GridSrc {
+    width:500px;
+}
+
+.GridSrc .ColumnLeft,
+.GridSrc .ColumnCenter {
+    border-left:none;
+    border-right:none;
+}
+
+.GridSrc .ColumnLeft {
+    text-align:left;
+    padding-left:20px;
+}
+
+.GridSrc .ColumnCenter {
+    text-align:center;
+}
+.GridSrc td {
+    vertical-align:middle;
+    cursor:pointer;
+}
+
+.GridSrc .IdColumn {
+    display:none;
+}
+
+.LST {
+    padding-top:12px;
+    padding-bottom:12px;
+}
+
+.RadioButtons INPUT {
+    margin-right:4px;
+}
